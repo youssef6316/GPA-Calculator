@@ -1,4 +1,5 @@
 Overview
+
 This Python script provides a comprehensive GPA calculator with three main functionalities:
 
 Semester GPA calculation
