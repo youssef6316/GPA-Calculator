@@ -4,6 +4,7 @@ This Python script provides a comprehensive GPA calculator with three main funct
 Semester GPA calculation
 Cumulative GPA calculation
 Target GPA calculation (what grades you need to reach a desired GPA)
+
 Features:
 1. Semester GPA Calculator:
 Calculates GPA for a single semester
