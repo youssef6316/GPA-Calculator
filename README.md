@@ -27,32 +27,25 @@ Calculates the required performance for your target
 How to Use
 Run the program:
 
-on your bash, write the following command:        python gpa_f.py
+on your bash, write the following command:          python gpa_f.py
 
 2.Main Menu Options:
-
 Press 1 for Semester GPA calculation
-
 Press 2 for Cumulative GPA calculation
-
 Press 3 for Target GPA calculation
 
 Choose on of the three modes and move forward to:
-
 Enter your grades and credit hours when requested
-
 The program will guide you through each calculation
 
 Try again:
-
 After each mode, you'll be asked if you want to perform another calculation
 
 Requirements
 Python 3.x
 
 -Notes:
+
 1- All grade inputs should be on a 4.0 scale (or your institution's equivalent)
-
 2- Credit hours should be entered as numbers (e.g., 3 for a standard course)
-
 3- The program handles decimal values for both grades and credit hours
